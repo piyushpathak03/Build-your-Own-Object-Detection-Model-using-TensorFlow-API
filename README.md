@@ -1,5 +1,5 @@
 # Build-your-Own-Object-Detection-Model-using-TensorFlow-API
-
+TensorFlow has APIs available in several languages both for constructing and executing a TensorFlow graph. The Python API is at present the most complete and the easiest to use, but other language APIs may be easier to integrate into projects and may offer some performance advantages in graph execution.
 
 
 ## About me
